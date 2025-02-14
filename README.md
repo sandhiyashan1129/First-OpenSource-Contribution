@@ -1,10 +1,15 @@
  # 🚀 Learn Open Source - Real-Time Contribution Display  
 
-![GitHub Stars](https://img.shields.io/github/stars/YourRepoName?style=social)  
-![GitHub Forks](https://img.shields.io/github/forks/YourRepoName?style=social)  
-![Issues](https://img.shields.io/github/issues/YourRepoName)  
-![Pull Requests](https://img.shields.io/github/issues-pr/YourRepoName)  
-![License](https://img.shields.io/github/license/YourRepoName)  
+<p align="center">
+  <img src="https://img.shields.io/github/stars/hari7261/First-OpenSouurce-Contribution?style=social" alt="GitHub Stars" />
+  <img src="https://img.shields.io/github/forks/hari7261/First-OpenSouurce-Contribution?style=social" alt="GitHub Forks" />
+  <img src="https://img.shields.io/github/issues/hari7261/First-OpenSouurce-Contribution" alt="Issues" />
+  <img src="https://img.shields.io/github/issues-pr/hari7261/First-OpenSouurce-Contribution" alt="Pull Requests" />
+  <img src="https://img.shields.io/github/license/hari7261/First-OpenSouurce-Contribution" alt="License" />
+</p>
+
+
+---
 
 Welcome to **Learn Open Source - Real-Time Contribution Display**! This project is designed to provide students with a hands-on experience in open source contribution, version control, and collaborative development.  
 
